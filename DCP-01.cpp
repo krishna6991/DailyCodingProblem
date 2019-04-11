@@ -1,4 +1,5 @@
 //find the smallest missing number from an unsorted array, can have duplicate elements in array
+//time complexity o(n) and space complexity o(1)
 
 #include<bits/stdc++.h>
 using namespace std;
