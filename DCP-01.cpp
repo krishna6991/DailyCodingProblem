@@ -1,4 +1,4 @@
-//find the smallest missing number from an unsorted array
+//find the smallest missing number from an unsorted array, can have duplicate elements in array
 
 #include<bits/stdc++.h>
 using namespace std;
