@@ -1,5 +1,6 @@
 """
-
+maximum value of each subarray of length k ,
+in o(n) time complexity and o(k) space complexity
 """
 
 from collections import deque
