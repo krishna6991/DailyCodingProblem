@@ -5,7 +5,6 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 Dynamic solution in o(n) time complexity
 """
 
-
 def possibleDecodeWays(str):
     n = len(str)
     count = [0]*(n+1)
